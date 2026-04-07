@@ -11,6 +11,7 @@ export default function Home() {
     <main>
       <Navbar />
       <Hero />
+      <h1 className="text-4xl font-bold text-center py-8">meme</h1>
       <About />
       <Services />
       <Reviews />
